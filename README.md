@@ -1,36 +1,115 @@
+# MICROEG / SOFTWARE & SECURITY
 
-<!--
-**MicroEG/MicroEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/MICROEG-000000?style=for-the-badge&logo=github&logoColor=white" alt="MicroEG" />
+  <img src="https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-EA4335?style=for-the-badge" alt="Software Development" />
+  <img src="https://img.shields.io/badge/SECURITY-PENTESTING-000000?style=for-the-badge" alt="Security Pentesting" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">BUILD. BREAK. UNDERSTAND. IMPROVE.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-IDK ⭐
+<p align="center">
+  Software Developer <b>×</b> Security Pentester<br/>
+  Exploring systems, building tools, and understanding how technology works beneath the surface.
+</p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MicroEG1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michael_maher0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-maher-b19aa221a) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MicroEG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MicroEG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroEG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MicroEG&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/MicroEG">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
+  </a>
+  <a href="https://github.com/MicroEG?tab=repositories">
+    <img src="https://img.shields.io/badge/ALL_REPOSITORIES-EA4335?style=for-the-badge" alt="All repositories" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MicroEG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## / 01 — ABOUT
+
+I'm **Michael Maher**, a software developer and security pentester interested in building software, exploring vulnerabilities, and understanding the logic behind complex systems.
+
+I believe good engineering isn't just about making things work — it's about understanding why they work, where they fail, and how to make them better.
+
+- **01.** Software development & problem solving
+- **02.** Cybersecurity & penetration testing
+- **03.** Exploring tools, systems, and new technologies
+- **04.** Building practical projects and experimenting with ideas
+
+---
+
+## / 02 — CURRENT DIRECTION
+
+```text
+[ SOFTWARE ENGINEERING ]
+    └── Build practical solutions
+    └── Explore implementation & architecture
+
+[ CYBERSECURITY ]
+    └── Study application security
+    └── Understand attack surfaces & weaknesses
+
+[ CONTINUOUS LEARNING ]
+    └── Experiment → Analyze → Improve
+```
+
+---
+
+## / 03 — TECH STACK
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</p>
+
+> Interested in software engineering, security tooling, and expanding my technical toolkit through hands-on projects.
+
+---
+
+## / 04 — SELECTED WORK
+
+### `01` / PROXER
+
+**Python · Software Project**
+
+A project from my repository collection.
+
+[ VIEW SOURCE CODE →](https://github.com/MicroEG/Proxer)
+
+### `02` / MORE EXPERIMENTS
+
+Explore my repositories for projects, experiments, and development work.
+
+[ BROWSE ALL PROJECTS →](https://github.com/MicroEG?tab=repositories)
+
+---
+
+## / 05 — GITHUB METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MicroEG&show_icons=true&hide_border=true&bg_color=000000&title_color=EA4335&text_color=FFFFFF&icon_color=EA4335" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroEG&layout=compact&hide_border=true&bg_color=000000&title_color=EA4335&text_color=FFFFFF" alt="Most used programming languages" />
+</p>
+
+---
+
+## / 06 — CONNECT
+
+<p>
+  <a href="https://github.com/MicroEG">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://fb.com/MicroEG1">
+    <img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>LESS NOISE. MORE BUILDING.</b><br/>
+  <sub>MICROEG © — ENGINEERING WITH INTENT.</sub>
+</p>
